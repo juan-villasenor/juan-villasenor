@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @juan-villasenor
 - 👀 I’m interested in Web UI Development
-- 🌱 I’m currently learning GraphQL
 - 💞️ I’m looking to collaborate on intersting products and new technologies.
 - 📫 How to reach me juan.villasenor@globant.com
